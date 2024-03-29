@@ -1,0 +1,35 @@
+.chela-one-regular {
+  font-family: "Chela One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+.redressed-regular {
+  font-family: "Redressed", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.container
+{
+    background-color: aqua;
+    
+    height: 100px;
+}
+
+.container-fluid
+{
+   /* background-color: coral;
+   
+    height: 100px;*/
+}
+.row
+{
+    background-color: #27AE60 ;
+    margin: 5px;
+}
+.col{
+    background-color: plum;
+    margin: 5px;
+}
